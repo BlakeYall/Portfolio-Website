@@ -1,0 +1,102 @@
+nav {
+  position: absolute;
+  width: 423px;
+  height: 92px;
+  left: 0px;
+  top: 0px;
+  background: #3C3A39;
+}
+
+.logo {
+  width: 77px;
+  height: 24px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 120px 24px;
+  gap: 12px;
+  position: absolute;
+  width: 375px;
+  height: 590px;
+  left: 0px;
+  top: 92px;
+  background: #1C1A19;
+}
+
+section h1 {
+  width: 327px;
+  height: 110px;
+  font-family: 'Crete Round';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  letter-spacing: 0.37px;
+  color: #FF6B00;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+section h3 {
+  width: 327px;
+  height: 27px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  color: #FFF5E1;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+section p {
+  width: 327px;
+  height: 26px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+
+.images div {
+  position: absolute;
+  left: 37.68%;
+  right: 34.41%;
+  top: 66.23%;
+  bottom: 3.72%;
+  transform: matrix(-0.96, 0.27, 0.27, 0.96, 0, 0);
+  background-image: url(bush.png);
+}
+
+.social-media-icons {
+  display: flex;
+}
+
+.social-media-icons a {
+  flex: 1;
+}
