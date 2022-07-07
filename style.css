@@ -52,7 +52,6 @@ header #menu-bar {
   margin-right: 35px;
 }
 
-
 #content {
   height: 587.15px;
   width: 100%;
@@ -103,7 +102,6 @@ ul {
   left: -3rem;
   top: -1.5rem;
 }
-
 
 ul li:nth-child(1) {
   background: url(Portfolio-Website/Portfolio-Website/Socials/Twitter.png);
