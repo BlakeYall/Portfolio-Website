@@ -1,6 +1,6 @@
 # Portfolio-Website-Skeleton
 
-This my skeleton for the Portfolio Mobile Version
+This is my skeleton for the Portfolio Mobile Version
 
 ### Built With
 Html<br />
@@ -9,6 +9,7 @@ CSS
 ### AUTHOR
 
 Inyambo Situmbeko
+
 <a href="https://github.com/BlakeYall">Github</a> 
 
 <a href="https://twitter.com/Thee_indigo1">Twitter</a> 
