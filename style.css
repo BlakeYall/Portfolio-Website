@@ -64,7 +64,7 @@ header #Menu-bar {
 }
 
 h1 {
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 700;
   font-size: 47px;
   line-height: 52px;
